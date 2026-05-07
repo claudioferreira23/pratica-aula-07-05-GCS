@@ -54,11 +54,11 @@ pratica-aula-07-05-GCS/
     └── config.env
 ├── docs
     ├── CONFIG_MAP.md
+    ├── README.md
     └── requisitos.md
 ├── src
     └── main.py
 ├── .gitignore    
-├── README.md
 └── requirements.txt
 
 ```
