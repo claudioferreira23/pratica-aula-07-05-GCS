@@ -6,6 +6,12 @@ Aplicação desktop desenvolvida em Python utilizando PyQt5 para consultar infor
 
 ---
 
+## Versão
+
+v1.0.0
+
+---
+
 # 📌 Funcionalidades
 
 - Consulta de clima por cidade
