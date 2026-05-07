@@ -51,12 +51,13 @@ O sistema possui uma interface simples e intuitiva contendo:
 pratica-aula-07-05-GCS/
 │
 ├── config
-├── scripts
+    └── config.env
 ├── docs
+    ├── CONFIG_MAP.md
     └── requisitos.md
 ├── src
     └── main.py
-├── tests
+├── .gitignore    
 ├── README.md
 └── requirements.txt
 
