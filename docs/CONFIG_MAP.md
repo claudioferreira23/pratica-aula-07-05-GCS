@@ -88,6 +88,6 @@ Os itens de configuração representam todos os artefatos que precisam ser contr
 
 ## 1.5 Politíca de versionamento
 
-| ID | Item | Descrição Versão |
-|---|---|---|---|---|
+| ID | Item | Descrição | Versão |
+|---|---|---|---|
 | IC-12 | Tag | Versinamento semântico | v1.0.0 |
